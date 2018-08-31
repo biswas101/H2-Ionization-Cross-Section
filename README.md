@@ -1,6 +1,6 @@
 # H2-Ionization-Cross-Section
-These scripts can find ionization cross section and sigma.dE
-The theory behind this is mention in, "Theory and Design of Charged Particle Beams" Book by Martin Reiser
+These scripts can find Hydrogen Ionization cross section and Int(sigma.dE)
+The theory can be found on, "Theory and Design of Charged Particle Beams" Book by Martin Reiser
 Using Cross_section_reiser.py we can find the Pictorial form of Hydrogen Ionization Cross Section
                   This wil create ionization_H2.txt
                   Make sure column name is U and s
